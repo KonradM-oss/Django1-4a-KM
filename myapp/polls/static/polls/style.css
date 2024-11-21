@@ -3,5 +3,5 @@ li a {
 }
 
 body {
-    background: gold url("images/background.png") no-repeat;
+    background: url("images/background.png") no-repeat;
 }
